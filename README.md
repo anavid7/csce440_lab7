@@ -1,7 +1,9 @@
 # csce440_lab7
 
 author: David ryan
+
 class: Numerical Analysis CSCE 440
+
 date: 10/29/2021
 
 Calculates the integration of the 
